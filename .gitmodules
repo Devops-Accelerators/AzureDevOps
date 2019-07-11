@@ -1,0 +1,6 @@
+[submodule "pipelines-dotnet-core"]
+	path = pipelines-dotnet-core
+	url = https://M1049170@dev.azure.com/M1049170/ACCELERATOR%20PROJECT/_git/pipelines-dotnet-core
+[submodule "ACCELERATOR%20PROJECT"]
+	path = ACCELERATOR%20PROJECT
+	url = https://M1049170@dev.azure.com/M1049170/ACCELERATOR%20PROJECT/_git/ACCELERATOR%20PROJECT
